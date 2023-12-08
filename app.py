@@ -6,7 +6,7 @@ import time
 
 models =[
     "playgroundai/playground-v2-1024px-aesthetic",
-    "playgroundai/playground-v2-1024px-aesthetic",
+    "stabilityai/sdxl-turbo",
     "tkurtulus/sdxl_tk",
     "Daniil-plotnikov/deepvision-v6-0",
     "AVIIAX/majic6",
