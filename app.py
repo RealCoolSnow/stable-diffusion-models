@@ -6,8 +6,8 @@ import time
 
 models =[
     "playgroundai/playground-v2-1024px-aesthetic",
-    "Linaqruf/animagine-xl-2.0",
-    "prompthero/openjourney",
+    "SG161222/Realistic_Vision_V1.4",
+    "Meina/MeinaMix_V10",
     "Daniil-plotnikov/deepvision-v6-0",
     "AVIIAX/majic6",
     "digiplay/RunDiffusionFXPhotorealistic_v1",
